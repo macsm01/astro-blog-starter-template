@@ -5,10 +5,6 @@ pubDate: "Jun 30 2025"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
-
-The Agentic Revolution: Understanding AI Agents Through the Lens of Chippingford-upon-Thames
-============================================================================================
-
 ### Understand Agentic AI through an analogy
 
 
